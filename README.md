@@ -192,7 +192,7 @@ DNS-level adblocker running across my entire home network to filter ads, malware
 My private mesh VPN connecting servers, desktops, and mobile phones into one secure network without opening public ports.
 
 ### 🌐 Nginx Reverse Proxy
-Handles SSL certificates, custom domain routing, and internal web services like my student admin app (Alumnia).
+Handles SSL certificates, custom domain routing.
 
 ### 🐳 Docker & Debian Linux
 The foundation of my home server environment, running modular containerized services managed over SSH.
