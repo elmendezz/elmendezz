@@ -34,7 +34,7 @@ Sometimes I fix them better than before.
 - improving my modules  
 - experimenting with Android kernels  
 
-⚡ Personal rule: *If there's a config file, it can probably be optimized.*
+⚡ *If there's a config file, it can probably be optimized.*
 
 ---
 
